@@ -214,6 +214,8 @@ body {
   .product-button:hover {
     background-color: #45a049;
   }
+
+  
   
   .product-button.added-to-cart {
     background-color: grey; /* Grey when product is added */
@@ -250,3 +252,14 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+
+
+
+  .category-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 20px 0;
+  color: #2c3e50; /* dark green/blue tone, you can adjust */
+}
